@@ -12,6 +12,7 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+<<<<<<< Updated upstream
 // dev2 adding his new changes to file
 
 .box {
@@ -20,3 +21,7 @@ class Main {
   margin: 15px;
   background-color: white;
 }
+=======
+
+new code is adding by dev2
+>>>>>>> Stashed changes
