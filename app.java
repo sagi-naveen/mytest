@@ -11,8 +11,8 @@ class Main {
     int sum = first + second;
     System.out.println(first + " + " + second + " = "  + sum);
   }
-}
-<<<<<<< Updated upstream
+}<<<<<<< Updated upstream
+
 // dev2 adding his new changes to file
 
 .box {
@@ -23,5 +23,4 @@ class Main {
 }
 =======
 
-new code is adding by dev2
->>>>>>> Stashed changes
+new code is adding 
