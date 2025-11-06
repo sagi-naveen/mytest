@@ -12,3 +12,11 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
+// dev2 adding his new changes to file
+
+.box {
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin: 15px;
+  background-color: white;
+}
