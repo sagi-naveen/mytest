@@ -33,3 +33,14 @@ new code is adding
   margin: 15px;
   background-color: white;
 }
+new code is adding 
+
+
+  git
+  .box {
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin: 15px;
+  background-color: white;
+}
+
