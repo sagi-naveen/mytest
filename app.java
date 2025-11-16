@@ -3,7 +3,7 @@
 class Main {
   #include<studio?
 
-  public static void main(String[] args) {
+  public static void main(String[] args) {0
 
     int first = 10;
     int second = 20;
