@@ -1,6 +1,7 @@
 // Dev1 writting the code
 
 class Main {
+  #include<studio?>
 
   public static void main(String[] args) {
 
